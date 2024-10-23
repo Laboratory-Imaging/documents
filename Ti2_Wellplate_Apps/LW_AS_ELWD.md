@@ -1,9 +1,19 @@
-### The package contains the following rings for LWD Condenser Lens:
-- [LW_AS_37_0405]()
-- [LW_AS_39_0405]()
-- [LW_AS_37_0940]()
-- [LW_AS_39_0940]()
-- [LW_AS_37_1200]()
-- [LW_AS_39_1200]()
+> [!WARNING]
+> the page below is a preliminary version, it will be finished soon...
 
-TODO: <span style="color: red;">pridat fotku a linky na 3D modely
+### The package contains the following rings for LWD Condenser Lens:
+
+- **LW_AS_37_0405**
+  - files for 3D print: [PDF](), [STL](), [3MF](), [F3D](), [DXF](), [STEP]()
+- **LW_AS_39_0405**
+  - files for 3D print: [PDF](), [STL](), [3MF](), [F3D](), [DXF](), [STEP]()
+- **LW_AS_37_0940**
+  - files for 3D print: [PDF](), [STL](), [3MF](), [F3D](), [DXF](), [STEP]()
+- **LW_AS_39_0940**
+  - files for 3D print: [PDF](), [STL](), [3MF](), [F3D](), [DXF](), [STEP]()
+- **LW_AS_37_1200**
+  - files for 3D print: [PDF](), [STL](), [3MF](), [F3D](), [DXF](), [STEP]()
+- **LW_AS_39_1200**
+  - files for 3D print: [PDF](), [STL](), [3MF](), [F3D](), [DXF](), [STEP]()
+
+![](img/condenser_rings.jpg)

@@ -1,4 +1,7 @@
-[\[Table of Contents\]](index.md)
+> [!WARNING]
+> the page below is a preliminary version, it will be finished soon...
+
+[\[Table of Contents\]](README.md)
 
 # 2. Sample Navigation Control Panel usage
 
@@ -57,4 +60,4 @@ From now on, you can select what type should be displayed for current wellplate:
 ### 2.2.4.Stage tab
 TODO: <span style="color: red;">delat???
 
-[\[Top\]](#2-sample-navigation-control-panel-usage) [\[Table of Contents\]](index.md)
+[\[Top\]](#2-sample-navigation-control-panel-usage) [\[Table of Contents\]](README.md)
