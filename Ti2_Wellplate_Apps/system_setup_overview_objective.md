@@ -106,6 +106,15 @@ The most of the setup will be done in the Service Settings dialog. It is availab
 
     ![](img/bf-lightpath.png)
 
+- FOV
+
+    "Large" and "Optimal" ROIs are used by built-in functions in Sample Navigation control panel. They can be also shown on the camera pad in case they are different each other and different from "Full Sensor" ROI which is quite a rare case. For scientific cameras usually both FOVs are same and "Full Sensor" is used.
+    - "Large" is used for plate detection as it is important to scan using FOV as large as possible in order to make the procedure the fastest possible
+    - "Optimal" is used to scan well centers to cover maximum of the well with no well borders
+
+    *Example for Hamamatsu Fusion camera*
+    ![](img/fov_setting.png)
+    ![](img/camera_pad.png)
 
 #### 1.2.2.2 Microscope Z Limits
 
