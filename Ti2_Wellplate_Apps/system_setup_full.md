@@ -34,7 +34,7 @@ It is very important for some AI driven NIS-Elements functions to correctly setu
 
 ### 1.1.1 Condenser rings setup
 
-There should be used three special condenser rings for the image acquisition, Autofocus etc.. The using of those special rings is not a must, but it is recommended.  
+There should be used three special condenser rings for the image acquisition, Autofocus etc.    
 The condenser turret has 7 positions: 1-4 are ⌀37mm positions, 5-7 are ⌀39mm positions. Of course, it is not important which positions are used for them, so the product package contains the three type of rings in two variants. The first set for ⌀37mm positions, the second set for ⌀39mm positions. Please, mount them freely to the empty positions.
 
 Of course, the condenser positions have to be correctly assigned in the NIS-Elements software as well, see [Service Settings](#221-camera-tab) chapter.

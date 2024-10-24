@@ -38,7 +38,8 @@ It is very important to correctly setup the hw (microscope, camera) in order to 
 
 ### 1.1.1 Condenser rings setup
 
-Insert the rings into the condenser and mount the condenser to the microscope.
+Insert the rings into the condenser and mount the condenser to the microscope.  
+Use the special condenser rings at least for 4x objective if you have them - see ["Full" setup](system_setup_full.md#111-condenser-rings-setup).
 
 > [!IMPORTANT]  
 > The condenser turret itself has to be correctly focused. The focusing should be ideally performed on the typical sample/wellplate which will be acquired on the system.
