@@ -50,4 +50,7 @@ There are three different setup types depending on the special condenser rings a
 A. [Sample Navigation Control Panel usage.](sample_navigation.md)
 
 B. [How to use the built-in functions in your custom Jobs.](jobtasks_usage.md)
+
+Sigi tu byl!
+
 -->
