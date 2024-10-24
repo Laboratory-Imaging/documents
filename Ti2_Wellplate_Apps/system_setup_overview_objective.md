@@ -2,12 +2,10 @@
 
 # 1. Setup Nikon Ti2 microscope and NIS-Elements software for Wellplate applications - "Preview/Overview Objective + Z-Reference"
 
-**If you want to use Automatic Detect Wellplate only - you do not need any special condenser. Anyway you need to specify exposure, light power and condenser position in Service Settings dialog.  
+**If you want to use Automatic Wellplate type detection only - you do not need any special condenser. Anyway you need to specify exposure, light power and condenser position in Service Settings dialog.  
 WARNING: Such setup is probably not working correctly for transparent plastic plates.**
 
 If you need more functions and have special condenser ring for 4x objective, closed aperture, just continue reading.
-
-This is a setup for limited wellplate use when you do not need (or do not want) to use AI functions for automatic overview of the wellplate (automatic finding cells, automatic finding the first well with the cells for auto focusing, etc.).
 
 AI functions has been trained for these cell lines:
 
