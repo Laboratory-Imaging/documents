@@ -9,7 +9,7 @@
 | Full set of functions                                    | **Special condenser rings for all objectives            | ["Full"](system_setup_full.md)                                                   |
 
 *Overview functions:
-- Cell presence detection (CellPresence.ai)
+- Cell presence detection (CellPresence.ai), it is used for finding a place where to start the first Autofocus as well as for marking wells by "Cells present" label
 - AI based Fast Autofocus (Cells.ai)
 
 **Special condenser rings:
