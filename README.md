@@ -1,5 +1,4 @@
-# Documents
+# Miscellaneous documents related to NIS-Elements software
 
-### Different technical documents:
-- [Ti2 Wellplate applications](Ti2_Wellplate_Apps/README.md)
+- [Ti2 Wellplate applications](Ti2_Wellplate_Apps/README.md) - describes how to setup a system with Nikon Ti2 microscope for applications working with wellplates
 
