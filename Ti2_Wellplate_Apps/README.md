@@ -1,4 +1,7 @@
-# Wellplate applications in NIS-Elements software
+# Wellplate applications on Ti2 microscope
+
+> [!IMPORTANT]
+> All the information below is related to **NIS-Elements version 6.10.01 + Patch 01** or newer.
 
 ## Sample Navigation features
 
