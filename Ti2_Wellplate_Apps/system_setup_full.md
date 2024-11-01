@@ -119,19 +119,23 @@ The most of the setup will be done in the Service Settings dialog. It is availab
 
     **LWD Condenser**
   
-    | Pinhole size | Condenser name | Condenser ring                         |
-    | ------------ | -------------- | -------------------------------------- |
-    | ⌀1.50 mm     | AS_1.50mm      | [LW_AS_37_0150]() or [LW_AS_39_0150]() |
-    | ⌀4.05 mm     | AS_4.05mm      | [LW_AS_37_0405]() or [LW_AS_39_0405]() |
-    | ⌀9.40 mm     | AS_9.40mm      | [LW_AS_37_0940]() or [LW_AS_39_0940]() |
-
+    | Objective/aperture | Pinhole size | Condenser name |
+    | ------------------ | ------------ | -------------- |
+    | 4x Closed          | ⌀1.50 mm     | AS_1.50mm      |
+    | 4x Opened          | ⌀4.05 mm     | AS_4.05mm      |
+    | 10x Opened         | ⌀9.40 mm     | AS_9.40mm      |
+    | 20x Opened         | ⌀9.40 mm     | AS_9.40mm      |
+    | 40x Opened         | ⌀9.40 mm     | AS_9.40mm      |
+    
     **ELWD Condenser**
   
-    | Pinhole size | Condenser name | Condenser ring                         |
-    | ------------ | -------------- | -------------------------------------- |
-    | ⌀4.05 mm     | AS_4.05mm      | [LW_AS_37_0405]() or [LW_AS_39_0405]() |
-    | ⌀9.40 mm     | AS_9.40mm      | [LW_AS_37_0940]() or [LW_AS_39_0940]() |
-    | ⌀12.00 mm    | AS_12.00mm     | [LW_AS_37_1200]() or [LW_AS_39_1200]() |
+    | Objective/aperture | Pinhole size | Condenser name |
+    | ------------------ | ------------ | -------------- |
+    | 4x Closed          | ⌀4.05 mm     | AS_4.05mm      |
+    | 4x Opened          | ⌀9.40 mm     | AS_9.40mm      |
+    | 10x Opened         | ⌀9.40 mm     | AS_9.40mm      |
+    | 20x Opened         | ⌀12.00 mm    | AS_12.00mm     |
+    | 40x Opened         | ⌀12.00 mm    | AS_12.00mm     |
     
     *example settings (LWD condenser):*  
     ![](img/ss_acquisition.png)
