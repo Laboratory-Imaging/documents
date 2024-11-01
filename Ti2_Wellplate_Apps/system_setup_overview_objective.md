@@ -85,6 +85,18 @@ The most of the setup will be done in the Service Settings dialog. It is availab
     It is necessary to set brightness settings (camera exposure, light power, condenser position) for 4x objective.  
     <img src="img/acquisition_servicesettings_overview.png" width="80%" />  
 
+    **LWD Condenser**
+  
+    | Objective/aperture | Pinhole size | Condenser name |
+    | ------------------ | ------------ | -------------- |
+    | 4x Closed          | ⌀1.50 mm     | AS_1.50mm      |
+    
+    **ELWD Condenser**
+  
+    | Objective/aperture | Pinhole size | Condenser name |
+    | ------------------ | ------------ | -------------- |
+    | 4x Closed          | ⌀4.05 mm     | AS_4.05mm      |
+
     To modify the default settings you need to press "Edit" button to activate the buttons "Values to Config." and "Values to System".  
     - Run "Live" and configure brightfield illumination, camera exposure and condenser.
     - Press button "Values to Config." to assign the current values to the system configuration which is used for automatic scanning and wellplate detection.`
