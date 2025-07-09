@@ -1,0 +1,33 @@
+h1,h2,h3,h4,h5,h6 {
+ /*page-break-before: always;*/
+ page-break-after: avoid;
+ margin-top:2em;
+ font-weight: 600;
+}
+h1,h2 {
+border-bottom:1px solid silver;
+}
+
+div.markdown-alert {
+   page-break-inside: avoid;
+}
+img {
+  padding: inherit;
+  margin:auto;
+  display: block;
+  page-break-before: avoid;
+}
+.break { 
+  page-break-after: always !important;
+}
+hr {
+  display:none;
+}
+h1>img,
+h2>img,
+h3>img,
+h4>img,
+h5>img{
+  display:inline-block !important;
+  vertical-align: middle;
+}
